@@ -1,0 +1,15 @@
+{
+  "name": "w3up-issue-872",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./upload-car.js --car sharkDAO.car"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web3-storage/w3up-client": "^11.2.0"
+  }
+}
